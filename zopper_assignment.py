@@ -1,6 +1,5 @@
 # =====================================================
 # Zopper | Data Science Internship Assignment
-# Version 4 – Machine Learning Based Prediction
 # =====================================================
 
 import pandas as pd
@@ -133,3 +132,4 @@ result.to_excel(
     "Zopper_Attach_Analysis_Output_V4_ML.xlsx",
     index=False
 )
+
